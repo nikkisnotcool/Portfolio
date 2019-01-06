@@ -33,11 +33,11 @@ section {
 }
 
 a,a:link {
-	color: #222;
+	color: #29a3dd;
 }
 
 a:hover,a:focus {
-	color: #222;
+	color: #f15624;
 }
 
 
@@ -344,14 +344,14 @@ a:hover,a:focus {
 
 /* Thumbnail Images*/
 
-.photo-1 {background-image: url('../img/Coraline3.jpg');}
+.photo-1 {background-image: url('../img/Paws7.jpg');}
 .photo-2 {background-image: url('../img/Coraline2.jpg');}
-.photo-3 {background-image: url('../img/Coraline1.jpg');}
+.photo-3 {background-image: url('../img/Magazine2.jpg');}
 .photo-4 {background-image: url('../img/Colibri1.jpg');}
-.photo-5 {background-image: url('../img/Colibri2.jpg');}
+.photo-5 {background-image: url('../img/Community7.jpg');}
 .photo-6 {background-image: url('../img/Colibri3.jpg');}
 .photo-7 {background-image: url('../img/Toypackage1.jpg');}
-.photo-8 {background-image: url('../img/Toypackage3.jpg');}
+.photo-8 {background-image: url('../img/Chicopee6.jpg');}
 .photo-9 {background-image: url('../img/Pairingbook3.jpg');}
 
 
